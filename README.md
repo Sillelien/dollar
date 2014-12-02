@@ -1,4 +1,5 @@
 #THIS IS ALL OUT OF DATE, please check out http://neilellis.github.io/dollar for details on DollarScript, I will get round to updating this eventually :-)
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/neilellis/dollar?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
 
